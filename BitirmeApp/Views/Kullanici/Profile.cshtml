@@ -1,0 +1,42 @@
+﻿@model Kullanici
+
+<h2>Profil Sayfası - @Model.KullaniciAd</h2>
+
+<h3>Yaptığı Makaleler</h3>
+@if (Model.Makale.Any())
+{
+    <ul>
+        @foreach (var blog in Model.Makale)
+        {
+            <li>
+                <strong>@blog.Baslik</strong>
+                <br />
+                @blog.İcerik
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>Kullanıcı henüz makale yazmamış.</p>
+}
+
+<h3>Yaptığı Yorumlar</h3>
+@if (Model.Yorum.Any())
+{
+    <ul>
+        @foreach (var comment in Model.Yorum)
+        {
+            <li>
+                <strong>@comment.Makale.Baslik</strong>
+                <br />
+                @comment.YorumAciklama
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>Kullanıcı henüz yorum yapmamış.</p>
+}
+

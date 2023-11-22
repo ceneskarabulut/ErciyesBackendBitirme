@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BitirmeApp
+build_property.RootNamespace = BitirmeApp
+build_property.ProjectDir = /Users/cumalieneskarabulut/Desktop/BitirmeApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/cumalieneskarabulut/Desktop/BitirmeApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Home/Filter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GaWx0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Kategori/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS2F0ZWdvcmkvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Kategori/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS2F0ZWdvcmkvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Kategori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS2F0ZWdvcmkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Kullanici/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3VsbGFuaWNpL0ZvcmdvdFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Kullanici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3VsbGFuaWNpL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Kullanici/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3VsbGFuaWNpL1Byb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Kullanici/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3VsbGFuaWNpL1Jlc2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Kullanici/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3VsbGFuaWNpL1NpZ25VcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Makale/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFrYWxlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Makale/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFrYWxlL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Makale/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFrYWxlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Makale/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFrYWxlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Shared/_Sablon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TYWJsb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/cumalieneskarabulut/Desktop/BitirmeApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

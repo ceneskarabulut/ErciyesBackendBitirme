@@ -1,0 +1,17 @@
+@model Kategori
+
+
+<h1>Kategori Düzenleme Formu</h1>
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <p>
+        <label for="KategoriId">Kategori Numarası</label>
+        <input type="number" asp-for="KategoriId" id="KategoriId" class="form-control" readonly>
+    </p>
+
+    <p>
+        <label for="KategoriAd">Kategori Adı</label>
+        <input type="text" asp-for="KategoriAd" id="KategoriAd" class="form-control">
+ 
+        <input type="submit" value="Güncelle" class="btn btn-primary">
+    </p>
+</form>

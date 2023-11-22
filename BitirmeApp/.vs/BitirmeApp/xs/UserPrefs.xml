@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{E5A6EF16-678C-465F-B4AD-6CE676210E14}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BitirmeApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Makale/Details.cshtml">
+    <Files>
+      <File FileName="Controllers/MakaleController.cs" Line="107" Column="35" />
+      <File FileName="Views/Makale/Details.cshtml" Line="27" Column="27" />
+      <File FileName="Controllers/KullaniciController.cs" Line="42" Column="1" />
+      <File FileName="Data/Kullanici.cs" Line="19" Column="2" />
+      <File FileName="Data/Makale.cs" Line="19" Column="1" />
+      <File FileName="Data/Yorum.cs" Line="19" Column="47" />
+      <File FileName="Controllers/KategoriController.cs" Line="12" Column="2" />
+      <File FileName="Data/Kategori.cs" Line="1" Column="1" />
+      <File FileName="Data/DataContext.cs" Line="1" Column="1" />
+      <File FileName="Controllers/YorumController.cs" Line="1" Column="1" />
+      <File FileName="Views/Kullanici/Profile.cshtml" Line="31" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BitirmeApp" expanded="True">
+            <Node name="BitirmeApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Makale" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

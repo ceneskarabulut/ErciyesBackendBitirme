@@ -1,0 +1,31 @@
+@model IEnumerable<Makale>
+
+<h1>Makale Listesi</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Resim</th>
+            <th>Başlık</th>
+            <th>İçerik</th>
+            <th></th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><img src="~/resimler/makaleler/@item.Resim" alt="makale" width="80"></td> 
+                <td>@item.Baslik</td>
+                <td>@item.İcerik</td>
+                <td>
+                    <a asp-controller="Makale" asp-action="Details" asp-route-id="@item.MakaleId" class="btn btn-danger">Detaylar</a>
+                    <hr>
+                    <a asp-controller="Makale" asp-action="Edit" asp-route-id="@item.MakaleId" class="btn btn-primary">Düzenle</a>
+                   @* <a asp-controller="Makale" asp-action="Delete" asp-route-id="@item.MakaleId" class="btn btn-danger" onclick="return confirm('Makale silinsin mi?')">Sil</a>*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

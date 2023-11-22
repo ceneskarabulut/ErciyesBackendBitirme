@@ -1,0 +1,36 @@
+@model Makale
+
+
+<h1>Makale Düzenleme Formu</h1>
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <p>
+        
+        <input type="hidden" asp-for="MakaleId" id="MakaleId" class="form-control" readonly>
+    </p>
+
+    <p>
+        <label for="Baslik">Makale Başlığı</label>
+        <input type="text" asp-for="Baslik" id="Baslik" class="form-control">
+    </p>
+
+    <p>
+        <img src="~/resimler/makaleler/@Model.Resim" alt="makale" class="img-thumbnail" width="120"><br>
+        <label for="Dosya">Yeni Makale Resmi</label>
+        <input type="file" asp-for="Dosya" id="Dosya" class="form-control">
+    </p>
+
+    <p>
+        <label for="İcerik">İçerik</label>
+        <textarea  asp-for="İcerik" id="İcerik" rows="5" class="form-control"></textarea>
+    </p>
+
+    <div class="mb-3">
+        <label asp-for="KategoriId" class="form-label">Kategori</label>
+        <select asp-for="KategoriId" asp-items="ViewBag.Kategoriler" class="form-control">
+            <option value="">@Model.Kategori</option>
+        </select>
+    </div>
+    <p>
+        <input type="submit" value="Güncelle" class="btn btn-primary">
+    </p>
+</form>

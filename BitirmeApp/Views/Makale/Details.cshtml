@@ -1,0 +1,48 @@
+@model Makale
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8">
+            <h2>@Model.Baslik</h2>
+
+            <img src="~/resimler/makaleler/@Model.Resim" alt="makale" width="250" height="200">
+            <p>@Model.İcerik</p>
+        </div>
+        <div class="col-md-4">
+
+        </div>
+    </div>
+</div>
+
+<ul class="list-group">
+
+    @foreach (var comment in Model.Yorums)
+    {
+
+
+        <li class="list-group-item">
+            <div class="d-flex justify-content-between">
+                <div>
+                    <span class="text-muted">Yazan: <a href="@Url.Action("Profile", "Kullanici", new { id = comment.Kullanici.KullaniciId })">@comment.Kullanici.KullaniciAd</a></span>
+                    <br />
+                    <span class="text-muted">Tarih: @comment.OlusturmaTarihi.ToString("dd.MM.yyyy")</span>
+                    <br />
+                    @comment.YorumAciklama
+                </div>
+
+            </div>
+        </li>
+    }
+</ul>
+
+
+    <h3>Yorum Ekle</h3>
+    <form asp-action="AddComment" asp-controller="Makale" method="post">
+        <input type="hidden" asp-for="@Model.MakaleId" />
+        <div class="form-group">
+            <label for="commentText">Yorum:</label>
+            <textarea class="form-control" id="YorumAciklama" name="YorumAciklama"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Yorum Ekle</button>
+    </form>
+

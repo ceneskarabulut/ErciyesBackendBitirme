@@ -1,0 +1,749 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/css/util.css",
+      "PackagePath": "staticwebassets/css/util.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-Bold.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-Italic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-Light.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-Regular.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-Thin.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/JosefinSans-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/JosefinSans-ThinItalic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/JosefinSans/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/JosefinSans/OFL.txt"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/Linearicons-Free-v1.0.0/icon-font.min.css",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free-v1.0.0/icon-font.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-Bold.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-Italic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-Light.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-LightItalic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-Regular.otf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-Regular.otf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-Regular.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/OpenSans/OpenSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/OpenSans/OpenSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/css/font-awesome.css",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/animated.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/animated.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/core.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/core.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/fixed-width.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/fixed-width.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/font-awesome.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/font-awesome.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/icons.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/icons.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/larger.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/larger.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/list.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/list.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/mixins.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/mixins.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/path.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/path.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/screen-reader.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/screen-reader.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/stacked.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/stacked.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/less/variables.less",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/less/variables.less"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_animated.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_core.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_icons.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_larger.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_list.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_path.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_path.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/_variables.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/font-awesome-4.7.0/scss/font-awesome.scss",
+      "PackagePath": "staticwebassets/fonts/font-awesome-4.7.0/scss/font-awesome.scss"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/oswald/Oswald-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/oswald/Oswald-Bold.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/oswald/Oswald-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/fonts/oswald/Oswald-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/oswald/Oswald-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/oswald/Oswald-Light.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/oswald/Oswald-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/oswald/Oswald-Medium.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/oswald/Oswald-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/oswald/Oswald-Regular.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/fonts/oswald/Oswald-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/oswald/Oswald-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/js/map-custom.js",
+      "PackagePath": "staticwebassets/js/map-custom.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/resimler/.DS_Store",
+      "PackagePath": "staticwebassets/resimler/.DS_Store"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/resimler/2kilicarslan.jpg",
+      "PackagePath": "staticwebassets/resimler/2kilicarslan.jpg"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/resimler/MeteHan.jpg",
+      "PackagePath": "staticwebassets/resimler/MeteHan.jpg"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/resimler/YavuzSultanSelim.jpg",
+      "PackagePath": "staticwebassets/resimler/YavuzSultanSelim.jpg"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/resimler/logo.jpg",
+      "PackagePath": "staticwebassets/resimler/logo.jpg"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/resimler/makaleler/.DS_Store",
+      "PackagePath": "staticwebassets/resimler/makaleler/.DS_Store"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/resimler/makaleler/732efbf8-1cca-4957-8a06-674c00125a3d.jpg",
+      "PackagePath": "staticwebassets/resimler/makaleler/732efbf8-1cca-4957-8a06-674c00125a3d.jpg"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/resimler/makaleler/eca27be5-3ca1-49d6-96cd-ecb329df7015.jpg",
+      "PackagePath": "staticwebassets/resimler/makaleler/eca27be5-3ca1-49d6-96cd-ecb329df7015.jpg"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/animate/animate.css",
+      "PackagePath": "staticwebassets/vendor/animate/animate.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/animsition/css/animsition.css",
+      "PackagePath": "staticwebassets/vendor/animsition/css/animsition.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/animsition/css/animsition.min.css",
+      "PackagePath": "staticwebassets/vendor/animsition/css/animsition.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/animsition/js/animsition.js",
+      "PackagePath": "staticwebassets/vendor/animsition/js/animsition.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/animsition/js/animsition.min.js",
+      "PackagePath": "staticwebassets/vendor/animsition/js/animsition.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/js/popper.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/popper.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/js/popper.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/bootstrap/js/tooltip.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/tooltip.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/countdowntime/countdowntime.js",
+      "PackagePath": "staticwebassets/vendor/countdowntime/countdowntime.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/css-hamburgers/hamburgers.css",
+      "PackagePath": "staticwebassets/vendor/css-hamburgers/hamburgers.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/css-hamburgers/hamburgers.min.css",
+      "PackagePath": "staticwebassets/vendor/css-hamburgers/hamburgers.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/daterangepicker/daterangepicker.css",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/daterangepicker.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/daterangepicker/daterangepicker.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/daterangepicker.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/daterangepicker/moment.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/moment.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/daterangepicker/moment.min.js",
+      "PackagePath": "staticwebassets/vendor/daterangepicker/moment.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/jquery/jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/perfect-scrollbar/perfect-scrollbar.css",
+      "PackagePath": "staticwebassets/vendor/perfect-scrollbar/perfect-scrollbar.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/perfect-scrollbar/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/vendor/perfect-scrollbar/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/select2/select2.css",
+      "PackagePath": "staticwebassets/vendor/select2/select2.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/select2/select2.js",
+      "PackagePath": "staticwebassets/vendor/select2/select2.js"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/select2/select2.min.css",
+      "PackagePath": "staticwebassets/vendor/select2/select2.min.css"
+    },
+    {
+      "Id": "/Users/cumalieneskarabulut/Desktop/BitirmeApp/wwwroot/vendor/select2/select2.min.js",
+      "PackagePath": "staticwebassets/vendor/select2/select2.min.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BitirmeApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BitirmeApp.props",
+      "PackagePath": "build\\BitirmeApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BitirmeApp.props",
+      "PackagePath": "buildMultiTargeting\\BitirmeApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BitirmeApp.props",
+      "PackagePath": "buildTransitive\\BitirmeApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

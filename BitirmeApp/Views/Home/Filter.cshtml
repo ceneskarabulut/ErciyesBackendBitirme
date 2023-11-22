@@ -1,0 +1,25 @@
+@model List<Makale>
+@using Microsoft.AspNetCore.Http;
+
+<h2>Makaleler</h2>
+
+<div class="row">
+    @foreach (var makale in Model)
+    {
+        <div class="col-md-4">
+            
+                <img src="~/resimler/makaleler/@makale.Resim" alt="makale" width="150" height="150">
+                <hr>
+        </div>
+        
+        <div class="col-md-8">
+                <div class="card-body">
+            
+                    <a href="/Makale/Details/@makale.MakaleId" class="card-title">@makale.Baslik</a>
+                    <p class="card-title">@makale.İcerik</p>
+                   
+                </div>
+ </div>
+    } 
+    
+</div>

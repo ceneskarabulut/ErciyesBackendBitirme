@@ -1,0 +1,33 @@
+@model IEnumerable<Kategori>
+
+<h1>Kategori Listesi</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Kategori No</th>
+            <th>Kategori Adı</th>
+            <th>Kategori Açıklama</th>
+         
+            <th></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+               
+                <td>@item.KategoriId</td>
+                <td>@item.KategoriAd</td>
+                <td>@item.KategoriAciklama</td>
+             
+                <td>
+
+                    <a asp-controller="Kategori" asp-action="Edit" asp-route-id="@item.KategoriId" class="btn btn-warning">Düzenle</a>
+                    <a asp-controller="Kategori" asp-action="Delete" asp-route-id="@item.KategoriId" class="btn btn-danger" onclick="return confirm('Kategori silinsin mi?')">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

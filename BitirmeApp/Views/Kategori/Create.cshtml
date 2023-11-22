@@ -1,0 +1,13 @@
+@model Kategori
+<h2>Kategori Ekle</h2>
+<hr>
+<form asp-controller="Kategori" asp-action="Create" method="post">
+<div class="mb-3">
+    <label asp-for="KategoriAd" class="form-label">Kategori Ad</label>
+    <input asp-for="KategoriAd" class="form-control">
+</div>
+
+
+
+<button type="submit" class="btn btn-secondary">Kaydet</button>
+</form>

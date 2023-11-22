@@ -1,0 +1,36 @@
+@model Makale
+
+
+<h1>Makale Ekleme Formu</h1>
+<form asp-controller="Makale" asp-action="Create" method="post" enctype="multipart/form-data">
+    <p>
+        <label for="Baslik">Makale Başlığı</label>
+        <input type="text" asp-for="Baslik" id="Baslik" class="form-control">
+    </p>
+
+    <p>
+        <label for="Dosya">İlan Resmi</label>
+        <input type="file" asp-for="Dosya" id="Dosya" class="form-control">
+    </p>
+
+    <p>
+        <label for="İcerik">İçerik</label>
+        <textarea asp-for="İcerik" id="İcerik" rows="5" class="form-control"></textarea>
+    </p>
+    <div class="mb-3">
+        <label asp-for="KategoriId" class="form-label">Kategori</label>
+        <select asp-for="KategoriId" asp-items="ViewBag.Kategoriler" class="form-control">
+            <option value="">Seçiniz</option>
+        </select>
+    </div>
+     <div class="mb-3">
+        <label asp-for="KullaniciId" class="form-label">Kullanıcı</label>
+        <select asp-for="KullaniciId" asp-items="ViewBag.Kullanicilar" class="form-control">
+            <option value="">Seçiniz</option>
+        </select>
+    </div>
+ 
+    <p>
+        <input type="submit" value="Kaydet" class="btn btn-primary">
+    </p>
+</form>
